@@ -13,9 +13,10 @@ Một trang web cho phép người dùng tìm kiếm, xem và đánh giá các b
 ## Công nghệ sử dụng
 
 - **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express
-- **Cơ sở dữ liệu**: MongoDB
-- **API**: Sử dụng API phim (ví dụ: TMDB API)
+- **Backend**: Springboot
+- **Cơ sở dữ liệu**: MSSQL
+- **API**: Sử dụng API của server
+- **Cloud**: Cloudinary
 
 ## Cài đặt
 
